@@ -1,0 +1,5 @@
+name: zombocom
+framework:
+  type: php
+  runtime: php
+mem: 128M

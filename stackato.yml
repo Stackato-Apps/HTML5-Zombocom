@@ -1,4 +1,4 @@
-name: zombocom
+name: html5-zombocom
 framework:
   type: php
   runtime: php

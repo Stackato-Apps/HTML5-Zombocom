@@ -1,5 +1,0 @@
-name: html5-zombocom
-framework:
-  type: php
-  runtime: php
-mem: 128M

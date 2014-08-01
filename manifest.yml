@@ -1,0 +1,6 @@
+applications:
+- name: html5-zombocom
+  framework:
+    name: php
+  mem: 128M
+  runtime: php

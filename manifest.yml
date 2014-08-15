@@ -1,6 +1,4 @@
 applications:
 - name: html5-zombocom
-  framework:
-    name: php
+  buildpack: https://github.com/ActiveState/heroku-buildpack-php.git
   mem: 128M
-  runtime: php

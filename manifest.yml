@@ -1,4 +1,3 @@
 applications:
 - name: html5-zombocom
-  buildpack: https://github.com/heroku/heroku-buildpack-php.git
-  mem: 128M
+  mem: 32M

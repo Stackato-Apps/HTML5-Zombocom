@@ -1,4 +1,4 @@
 applications:
 - name: html5-zombocom
-  buildpack: https://github.com/heroku/heroku-buildpack-php.git
+  docker_image: stackatoapps/html5-zombocom:latest
   mem: 128M

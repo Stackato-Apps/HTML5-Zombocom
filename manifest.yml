@@ -1,3 +1,5 @@
 applications:
 - name: html5-zombocom
+  buildpack: https://github.com/cloudfoundry/php-buildpack#v4.3.4
   memory: 32M
+  stack: cflinuxfs2
